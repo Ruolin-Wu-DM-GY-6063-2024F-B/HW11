@@ -8,4 +8,4 @@ And I make 1 LED blink every 1 second, 1 LED blink every 3 seconds, 1 LED blink 
 And another 3 LEDs for calculate the time, 1 LED will light after 15 seconds, 1 will light after 30 seconds, 1 will light after 45 seconds.
 
 This is the Video:
-HW11.mp4
+[HW11.mp4](https://github.com/Ruolin-Wu-DM-GY-6063-2024F-B/HW11/blob/01c6201060f89602a2e14025e1362213a55747ab/HW11.mp4)
