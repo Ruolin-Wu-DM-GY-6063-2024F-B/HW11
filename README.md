@@ -9,3 +9,4 @@ And another 3 LEDs for calculate the time, 1 LED will light after 15 seconds, 1 
 
 This is the Video:
 [HW11.mp4](https://github.com/Ruolin-Wu-DM-GY-6063-2024F-B/HW11/blob/01c6201060f89602a2e14025e1362213a55747ab/HW11.mp4)
+(I make the video 2 times faster make it in 30 seconds)
